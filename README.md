@@ -1,0 +1,1 @@
+# wordpress-dummy-post-vue
